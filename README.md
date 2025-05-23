@@ -24,6 +24,8 @@
 | **Crypto.com** | Singapore (AWS), US (AWS), Frankfurt (AWS)      | No                       | Uses AWS globally                 | `api.crypto.com`              |
 
 ## **Additional FIX API Connection Information**
+source: https://axon.trade/supported-exchanges
+
 
 The following exchanges provide FIX API for high-frequency trading with specified recommended data centers:
 
